@@ -170,7 +170,7 @@ DermAssist is deployed as an interactive web application and model repository:
 
 ### 🔗 Access Points
 
-- **Live App (Streamlit):** https://your-streamlit-url.com  
-- **Model Weights (Hugging Face):** https://huggingface.co/your-username/your-model-repo   
+- **Live App (Streamlit):** https://dermassist.streamlit.app
+- **Model Weights (Hugging Face):** https://huggingface.co/Eklavya16/DermAssist  
 
 
