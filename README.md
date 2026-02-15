@@ -33,6 +33,20 @@ The model was trained on HAM10000 and externally evaluated on ISIC 2019 to asses
 
 ---
 
+## Dataset Information
+
+### Training Dataset
+- **HAM10000** (Dermoscopic image dataset)
+- Lesion-level split applied to prevent data leakage
+- Binary formulation: Benign vs Malignant
+
+### External Validation
+- **ISIC 2019** (Filtered class subset)
+- Used to evaluate cross-dataset generalization
+- Domain shift assessment performed
+
+---
+
 ## Model Architecture
 
 | Component | Specification |
