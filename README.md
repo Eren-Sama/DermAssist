@@ -143,4 +143,5 @@ Decision logic integrates both probability thresholds and calibrated uncertainty
 
 ## Deployment
 
-### Run Locally
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-website-url.com)
+
