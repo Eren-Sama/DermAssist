@@ -3,7 +3,7 @@
 
 DermAssist is an AI-based dermoscopic image analysis system designed to estimate malignancy risk, quantify prediction confidence, and provide visual explainability.
 
-The system integrates ensemble deep learning with uncertainty estimation to support dermatological triage workflows.
+The system supports dermatological triage workflows by combining deep learning ensemble modeling with uncertainty estimation.
 
 ---
 
