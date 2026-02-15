@@ -143,5 +143,20 @@ Decision logic integrates both probability thresholds and calibrated uncertainty
 
 ## Deployment
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-website-url.com)
+DermAssist is deployed as an interactive web application and model repository:
+
+<p align="left">
+  <a href="https://your-streamlit-url.com">
+    <img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
+  <a href="https://huggingface.co/your-username/your-model-repo">
+    <img src="https://img.shields.io/badge/HuggingFace-Model-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
+</p>
+
+### 🔗 Access Points
+
+- **Live App (Streamlit):** https://your-streamlit-url.com  
+- **Model Weights (Hugging Face):** https://huggingface.co/your-username/your-model-repo   
+
 
