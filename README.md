@@ -160,10 +160,10 @@ Decision logic integrates both probability thresholds and calibrated uncertainty
 DermAssist is deployed as an interactive web application and model repository:
 
 <p align="left">
-  <a href="https://your-streamlit-url.com">
+  <a href="https://dermassist.streamlit.app/">
     <img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   </a>
-  <a href="https://huggingface.co/your-username/your-model-repo">
+  <a href="https://huggingface.co/Eklavya16/DermAssist">
     <img src="https://img.shields.io/badge/HuggingFace-Model-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
 </p>
